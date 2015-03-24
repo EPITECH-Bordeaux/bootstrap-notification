@@ -1,8 +1,7 @@
 
 # bootstrap-notification
 
-simple functions for bootstrap notifify
-You need font Awsome.
+Simple functions for bootstrap notifify, you will need font Awsome.
 
 - successAlert(message);
 
